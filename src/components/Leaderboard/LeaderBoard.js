@@ -106,7 +106,7 @@ export const LeaderBoard = () => {
 <div className='bg-[rgba(35,26,102,0.7)] w-screen z-50 relative flex flex-row justify-between' >
 
 <div>
-  //mic logo
+  //pxp logo
 </div>
 <div >
 {!mailerror&&!adminStatus && <button onClick={signInWithGoogle} className='bg-yellow-600 cursor-pointer font-mono text-black font-3xl p-3 rounded-3xl m-3'>Admin login</button> }
